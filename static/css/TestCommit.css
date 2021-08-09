@@ -1,0 +1,62 @@
+.form-test{
+  width: 100%;
+
+}
+
+.input-api-url{
+  width: 40%;
+  height: 50px;
+  margin: 0 0 12px;
+  border-radius: 4px;
+  background: #555f6fcf;
+  color: white;
+}
+
+.input-json-content{
+  width: 40%;
+  border-radius: 4px;
+  background: #555f6fcf;
+  color: white;
+}
+
+.response-content{
+  width: 40%;
+  border-radius: 4px;
+  background: #555f6fcf;
+  color: white;
+}
+
+
+.input-commit{
+  width: 40%;
+  padding: 15px 28px;
+  color: #fff;
+  font-size: 15px;
+  display: inline-block;
+  text-align: center;
+  font-weight: 600;
+  line-height: 24px;
+  text-transform: uppercase;
+  border: none;
+  background: #2f3a4e;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  -moz-border-radius: 4px;
+  margin-top: 12px;
+}
+
+.input-commit:hover{
+  background: #6dbd70;
+  color: #2f3a4e;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+}
+
+.h-style{
+  color: #348da9;
+}
